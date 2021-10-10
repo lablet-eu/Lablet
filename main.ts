@@ -1,4 +1,4 @@
-//% color=#008060 weight=100 icon="\uf0eb" block="Lablet";
+//% color=#0a59a8 weight=100 icon="\uf0eb" block="Lablet";
 namespace Lablet {
     /**
      * Returns with the result of the (a xor b) operation.
